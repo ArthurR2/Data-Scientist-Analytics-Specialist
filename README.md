@@ -1,6 +1,7 @@
 # Data-Scientist-Analytics-Specialist
 
 Data Scientist Analytics Specialist Project
+
 This project is part of the requirements for the Data Scientist Analytics Specialist certification from IBM. The objective of this project is to apply the skills learned throughout the program to a real-world business problem.
 
 Business Problem

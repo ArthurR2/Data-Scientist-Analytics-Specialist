@@ -23,8 +23,8 @@ The project is divided into the following sections:
 **Installation**
 To run this project locally, you will need to have Python 3.x installed on your system. You can clone this repository using the following command:
 
-#bash
-**Copy code**
+**bash
+Copy code**
 git clone https://github.com/ArthurR2/Data-Scientist-Analytics-Specialist.git
 Once you have cloned the repository, navigate to the project directory and install the required packages using the following command:
 
